@@ -4,6 +4,7 @@ import { ServicesSection } from "@/components/services-section"
 import { TestimonialsSection } from "@/components/testimonials-section"
 import { Footer } from "@/components/footer"
 import { ChatWidget } from "@/components/chat-widget"
+import { ChatBot } from "@/components/chatBot"
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <TestimonialsSection />
       <Footer />
       <ChatWidget />
+      {/* <ChatBot /> */}
     </main>
   )
 }
