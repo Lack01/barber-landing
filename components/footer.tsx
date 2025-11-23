@@ -63,7 +63,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-border mt-12 pt-8 text-center">
-          <p className="text-sm text-muted-foreground">© 2024 BarberPro. Todos los derechos reservados.</p>
+          <p className="text-sm text-muted-foreground">© 2025 BarberPro. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
